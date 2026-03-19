@@ -22,15 +22,24 @@ No Tumor
 archive/
 │
 ├── Training/
+
 │   ├── glioma/
+
 │   ├── meningioma/
+
 │   ├── pituitary/
+
 │   └── notumor/
 │
+
 └── Testing/
+
     ├── glioma/
+    
     ├── meningioma/
+    
     ├── pituitary/
+    
     └── notumor/
 
 **Tech Stack:-**
