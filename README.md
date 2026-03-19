@@ -19,28 +19,22 @@ No Tumor
 
 **Dataset Structure:-**
 
-archive/
-│
-├── Training/
+archive:-
+├── Training:-
 
-│   ├── glioma/
+   ├── glioma/
+   
+   ├── pituitary/
+   
+   ├── notumor/
 
-│   ├── meningioma/
-
-│   ├── pituitary/
-
-│   └── notumor/
-│
-
-└── Testing/
+├── Testing:-
 
     ├── glioma/
     
-    ├── meningioma/
-    
     ├── pituitary/
     
-    └── notumor/
+    ├── notumor/
 
 **Tech Stack:-**
 Python 
