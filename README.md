@@ -18,6 +18,7 @@ No Tumor
 - Simple tumor detection function for new images
 
 **Dataset Structure:-**
+
 archive/
 │
 ├── Training/
