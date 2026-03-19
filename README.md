@@ -23,11 +23,11 @@ archive:-
 
 ├── Training:-
 
-   ├── glioma/
+    ├── glioma/
    
-   ├── pituitary/
+    ├── pituitary/
    
-   ├── notumor/
+    ├── notumor/
 
 ├── Testing:-
 
