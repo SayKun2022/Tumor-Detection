@@ -23,19 +23,19 @@ archive:-
 
 ├── Training:-
 
-    ├── glioma/
+    ├── glioma
    
-    ├── pituitary/
+    ├── pituitary
    
-    ├── notumor/
+    ├── notumor
 
 ├── Testing:-
 
-    ├── glioma/
+    ├── glioma
     
-    ├── pituitary/
+    ├── pituitary
     
-    ├── notumor/
+    ├── notumor
 
 **Tech Stack:-**
 Python 
